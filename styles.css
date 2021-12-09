@@ -1,0 +1,13 @@
+.headline {
+  background: #1c1a19 url(images/Illustration-header-desktop.svg) right -40px bottom 70px no-repeat;
+  background-size: contain;
+}
+
+.badge {
+  border: solid 1px black;
+}
+
+.aboutme-head {
+  background: url("images/illustration-aboutme.svg") top 60px right -190px no-repeat;
+  background-size: contain;
+}
